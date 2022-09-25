@@ -1,6 +1,8 @@
 # Rock-Paper-Scissors-Game
 This is the siple rock-paper-scissors game we all know and love.
 
+![image](C:\Users\Zahasoft\Desktop\stuff\4144475.png)
+
 RULES:
 You play either rock, paper or scissors.
 rock beats scissors;
